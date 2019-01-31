@@ -18,7 +18,6 @@ public class Application {
         System.out.println(myBoolean);
     }
 
-
 }
 
 
